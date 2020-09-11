@@ -3,7 +3,7 @@
 In diesem Repository befinden sich Unterlagen für die Ergänzungsprüfung Latein.
 
 ## Flashcards / Spaced Repetition
-Karteikarten für das effiziente Lernen der Inhalte mit [Spaced Repetition](https://en.wikipedia.org/wiki/Spaced_repetition) sind unter https://www.memcode.com/courses/2993 verfügbar.
+Karteikarten für das effiziente Lernen der Inhalte mit [Spaced Repetition](https://en.wikipedia.org/wiki/Spaced_repetition) sind unter https://www.memcode.com/courses/2993 verfügbar. Als Alternative gibt es eine Multiple Choice Variante die sich am Prüfungsmodus orientiert, aber dennoch Spaced Repetition verwendet unter https://www.memcode.com/courses/2999.
 
 ### Status
 Der derzeitige Status ist im [ZenHub Kanban Board](https://app.zenhub.com/workspaces/open-law-austria-5f341d4316010a00180099ff) zu finden.
